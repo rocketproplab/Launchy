@@ -1,0 +1,25 @@
+﻿Field=#~Integer~#~50|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~LaunchyRIO.PrjPcb|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Projects\Launchy\avi-cad\trunk\rio\LaunchyRIO.PrjPcb|ReportField=Title~Bill of Materials For Project [LaunchyRIO.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~11:23:34 AM|ReportField=ReportDate~1/20/2018|ReportField=ReportDateTime~1/20/2018 11:23:34 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~162|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~10d73c8b2bc2f31142534517e5b3cbac02c520de|ReportField=Address1~L3, 12a Rodborough Rd|ReportField=Address2~Frenchs Forest|ReportField=Address3~NSW|ReportField=Address4~Australia 2086|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~1/20/2018|ReportField=CurrentTime~11:21:42 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Public\Documents\Altium\Projects\Launchy\avi-cad\trunk\rio\Schematics\MainSchematic.SchDoc|ReportField=DocumentName~MainSchematic.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12/20/2017|ReportField=Organization~Altium Limited|ReportField=ProjectName~LaunchyRIO.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~LaunchyRIO.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\Launchy\avi-cad\trunk\rio\LaunchyRIO.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Capacitor|C1, C2, C3, C4, C5, C6, C7, C8, C37_RTD_Amplifier1, C37_RTD_Amplifier2, C37_RTD_Amplifier3, C37_RTD_Amplifier4, C38_RTD_Amplifier1, C38_RTD_Amplifier2, C38_RTD_Amplifier3, C38_RTD_Amplifier4, C39_RTD_Amplifier1, C39_RTD_Amplifier2, C39_RTD_Amplifier3, C39_RTD_Amplifier4, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53|34
+2|Capacitor (Semiconductor SIM Model)|C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21|13
+3|Capacitor|C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36|15
+4|Typical BLUE SiC LED|D1, D2, D3|3
+5|Ferrite Bead|FB1, FB2, FB3, FB4, FB5, FB6, FB7, FB8|8
+6|25-Position Connector|J1|1
+7|15-Position Connector|J2, J6|2
+8|9-Position Connector|J3, J4, J9|3
+9|Ethernet Jack with Magnetics|J5|1
+10||J7|1
+11|USB Micro|J8|1
+12|Inductor|L1|1
+13|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19_RTD_Amplifier1, R19_RTD_Amplifier2, R19_RTD_Amplifier3, R19_RTD_Amplifier4, R20_RTD_Amplifier1, R20_RTD_Amplifier2, R20_RTD_Amplifier3, R20_RTD_Amplifier4, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34|40
+14|Jumper Wire|SB1, SB2, SB3, SB4, SB5|5
+15|Jumper Wire|SB11, SB12_RTD_Amplifier1, SB12_RTD_Amplifier2, SB12_RTD_Amplifier3, SB12_RTD_Amplifier4, SB13_RTD_Amplifier1, SB13_RTD_Amplifier2, SB13_RTD_Amplifier3, SB13_RTD_Amplifier4, SB14_RTD_Amplifier1, SB14_RTD_Amplifier2, SB14_RTD_Amplifier3, SB14_RTD_Amplifier4, SB15_RTD_Amplifier1, SB15_RTD_Amplifier2, SB15_RTD_Amplifier3, SB15_RTD_Amplifier4, SB16_RTD_Amplifier1, SB16_RTD_Amplifier2, SB16_RTD_Amplifier3, SB16_RTD_Amplifier4, SB19|22
+16|STM32F407xx|U1|1
+17||U2|1
+18||U3|1
+19|RTD Digital Converter|U4_RTD_Amplifier1, U4_RTD_Amplifier2, U4_RTD_Amplifier3, U4_RTD_Amplifier4|4
+20|STM32F102x8|U7|1
+21|CAN Bus Transceiver|U8|1
+22|Ethernet Physical Layer Transceiver|U9|1
+23|Crystal Oscillator|X1|1
+24|Crystal Oscillator|X2|1
